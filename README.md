@@ -13,7 +13,7 @@ This is a project I am currently developing. It features a custom aerodynamic sy
 For more details and images of this project, you can visit: .gg/aerox2024
 
 ### Glide API
-The system that I described in the AeroX 2024 project for importing and visualizing 1:1 Earth surface shapes is actually based on a system called Glide. If you want to buy annual access to this system, we can agree on a price of $100/4000₺.
+The system that I described in the AeroX 2024 project for importing and visualizing 1:1 Earth surface shapes is actually based on a system called Glide.
 
 Details: https://devforum.roblox.com/t/glide-import-real-earth-in-just-seconds/2831958
 
